@@ -1,0 +1,49 @@
+{
+  "dataTwo":
+  [
+  {
+    "name": "HDFC",
+    "currPrice": 1598,
+    "previousPrice":1535,
+    "imageUrl":"https://companieslogo.com/img/orig/HDB-bb6241fe.png?t=1633497370"
+  },
+  {
+    "name":"Tata",
+    "currPrice": 248,
+    "previousPrice": 365,
+    "imageUrl":"https://wallpaperaccess.com/full/6578144.jpg"
+
+  },
+  {
+    "name":"Zomato",
+    "currPrice": 64,
+    "previousPrice":45,
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"
+
+  },
+ 
+  {
+    "name":"Nykaa",
+    "currPrice": 184,
+    "previousPrice": 145,
+    "imageUrl":"https://cdn.iconscout.com/icon/free/png-256/nykaa-3384872-2822953.png"
+
+  },
+  {
+    "name": "SBI",
+    "currPrice": 598,
+    "previousPrice":595,
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SBI-logo.svg/1024px-SBI-logo.svg.png"
+  },
+  {
+    "name":"Zomato",
+    "currPrice": 64,
+    "previousPrice":45,
+    "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"
+
+  }
+ 
+ 
+ 
+
+  ]}

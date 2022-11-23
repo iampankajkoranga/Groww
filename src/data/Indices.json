@@ -1,0 +1,24 @@
+{
+    "dataOne":
+    [{
+      "name": "NIFTY 50",
+      "currPrice": 1598,
+      "previousPrice": 1695
+    },
+    {
+      "name": "SENSEX",
+      "currPrice": 61598,
+      "previousPrice": 61435
+    },
+    {
+      "name":"NIFTY BANK",
+      "currPrice": 42348,
+      "previousPrice": 42215
+
+  
+    }
+   
+   
+   
+  
+    ]}

@@ -1,0 +1,47 @@
+{
+    "dataThree":
+    [{
+      "name": "PNB",
+      "currPrice": 547,
+      "previousPrice": 595,
+      "imageUrl":"https://s3-symbol-logo.tradingview.com/punjab-natl-bank--600.png"
+    },
+    {
+      "name": "BPCL",
+      "currPrice": 1698,
+      "previousPrice":1535,
+      "imageUrl":"https://assets.upstox.com/content/dam/aem-content-integration/assets/images/logos/BPCL/BPCL.png"
+    },
+    {
+      "name":"Bharti Airtel",
+      "currPrice": 348,
+      "previousPrice": 315,
+      "imageUrl":"https://companieslogo.com/img/orig/BHARTIARTL.NS-de86ce43.png?t=1596836556"
+  
+    },
+    {
+      "name":"Axis-Bank",
+      "currPrice": 64,
+      "previousPrice": 45,
+      "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"
+  
+    },
+    {
+      "name":"Zomato",
+      "currPrice": 64,
+      "previousPrice": 45,
+      "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"
+  
+    },
+    {
+      "name":"Nykaa",
+      "currPrice": 184,
+      "previousPrice": 145,
+      "imageUrl":"https://cdn.iconscout.com/icon/free/png-256/nykaa-3384872-2822953.png"
+  
+    }
+   
+   
+   
+  
+    ]}

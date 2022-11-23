@@ -1,0 +1,51 @@
+{
+    "dataFour":
+    [
+    {
+      "name": "HDFC",
+      "currPrice": 1598,
+      "currValue":2535,
+      "shares":2
+
+    },
+    {
+      "name":"Tata",
+      "currPrice": 248,
+      "currValue": 965,
+      "shares":4
+  
+    },
+    {
+      "name":"Zomato",
+      "currPrice": 64,
+      "currValue":333,
+      "shares":5
+  
+    },
+   
+    {
+      "name":"Nykaa",
+      "currPrice": 184,
+      "currValue": 1145,
+      "shares":5
+  
+    },
+    {
+      "name": "SBI",
+      "currPrice": 598,
+      "currValue": 965,
+      "shares":2
+    },
+    {
+      "name":"Zomato",
+      "currPrice": 64,
+      "currValue":535,
+      "shares":6
+
+  
+    }
+   
+   
+   
+  
+    ]}
